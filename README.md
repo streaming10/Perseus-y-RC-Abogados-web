@@ -8,8 +8,8 @@
 ### Teléfono:
 +34 661 099 122
 
-## Email:
+### Email:
 info@perseusyrcabogados.com
 
-## Ubicación:
+### Ubicación:
 Calle Juan Flórez, 2, 3ºA, A Coruña
