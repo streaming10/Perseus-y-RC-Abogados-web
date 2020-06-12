@@ -29,3 +29,8 @@ Socio Director Área Penal
 
 ![luis_jurado](https://user-images.githubusercontent.com/63341181/84498586-395ff400-acb1-11ea-9709-0c3801825aa1.jpg)
 [Luis Jurado - Linkedin](https://www.linkedin.com/in/luisjuradocano/ "Luis Jurado - Linkedin")
+
+# Envíanos tu curriculum
+En Perseus & RC Abogados destacamos por contar con un excelente grupo de profesionales. Trabajamos en un ambiente de motivación, creatividad y superación. Si eres un apasionado jurista, seguro que encontrarás atractivos los proyectos en los que estamos inmersos.
+
+Constantemente estamos evaluando perfiles para contar con los mejores profesionales en plantilla y seguramente hay un hueco para ti, envíanos tu curriculum a info@perseusyrcabogados.com con asunto CURRICULUM seguido de tu nombre y cuéntanos por qué piensas que encajarías en nuestros proyectos.
