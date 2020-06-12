@@ -13,3 +13,16 @@ info@perseusyrcabogados.com
 
 ### Ubicación:
 Calle Juan Flórez, 2, 3ºA, A Coruña
+
+# EQUIPO
+
+### ANA REZA
+
+Socia Directora Área Civil y Empresa 
+
+![ana_reza](https://user-images.githubusercontent.com/63341181/84498230-81cae200-acb0-11ea-852f-a325640dc051.jpg)
+
+### LUIS JURADO
+
+Socio Director Área Penal
+
