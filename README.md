@@ -5,9 +5,8 @@
 
 # CONTACTO
 
-## Teléfonos:
+### Teléfono:
 +34 661 099 122
-+34 677 841 007
 
 ## Email:
 info@perseusyrcabogados.com
