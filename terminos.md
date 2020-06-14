@@ -6,7 +6,7 @@ En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios
 • Titular: LUIS JURADO CANO  
 • NIF: 49040412L  
 • Domicilio: Calle Juan Flórez nº 2, 3º, 15004, A Coruña.  
-• Correo electrónico: [luisjurado@icacor.es](mailto:luisjurado@icacor.es)  
+• Correo electrónico: luisjurado@icacor.es
 • Páginas web: www.perseusyrcabogados.com
 
 Las referencias sucesivas a Perseus & RC Abogados, en las correlativas y enumeradas cláusulas de estos términos de uso se entenderán hechas a su titular cuyos datos se indican en el párrafo anterior.  
@@ -49,6 +49,6 @@ Lo presentes términos de uso de la página web se regirán por la legislación 
 
 ## 7- Jurisdicción
 
-Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicación y cumplimiento de estos términos de uso, así como para cualesquiera reclamaciones o controversias que puedan surgir entre el VAN MULLEN y el USUARIO, siempre que éste no reúna la condición de consumidor o usuario, según la definición dada por la normativa sectorial española, las partes se someten a los Jueces y Tribunales de Coruña con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
+Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicación y cumplimiento de estos términos de uso, así como para cualesquiera reclamaciones o controversias que puedan surgir entre el Perseus & RC Abogados y el USUARIO, siempre que éste no reúna la condición de consumidor o usuario, según la definición dada por la normativa sectorial española, las partes se someten a los Jueces y Tribunales de Coruña con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
 
 Fecha publicación: 14 de junio de 2020  
