@@ -53,3 +53,8 @@ Lo presentes términos de uso de la página web se regirán por la legislación 
 Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicación y cumplimiento de estos términos de uso, así como para cualesquiera reclamaciones o controversias que puedan surgir entre el Perseus & RC Abogados y el USUARIO, siempre que éste no reúna la condición de consumidor o usuario, según la definición dada por la normativa sectorial española, las partes se someten a los Jueces y Tribunales de Coruña con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
 
 Fecha publicación: 14 de junio de 2020  
+
+----------------------------------------------------------------------------------------------------------------------------------------
+[Legal](https://perseusyrcabogados.com/legal.html "Legal")
+[Cookies](https://perseusyrcabogados.com/cookies.html "Cookies")
+[Términos de uso](https://perseusyrcabogados.com/terminos.html "Términos de uso")
