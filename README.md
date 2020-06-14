@@ -3,7 +3,7 @@
 *Perseus & RC Abogados*, es una firma especializada en delitos informáticos, reclamaciones civiles y asesoramiento jurídico a empresas. Caracterizado desde su creación por la vocación de los socios en sus respectivas áreas legales y dotados de una alta calidad técnico-jurídica. En nuestro despacho el compromiso, dedicación y seriedad son valores clave. Asumimos un compromiso de seguimiento permanente en cada uno de nuestros casos, otorgando un valor añadido a nuestros clientes. Sabemos que ante problemas complejos debemos dar soluciones eficaces. Por eso, además de brindar nuestros servicios legales, disponemos de otros servicios especializados que complementan nuestra labor jurídica, para dar una respuesta integral y satisfactoria a los problemas de nuestros clientes.
 
 
-# CONTACTO
+# [CONTACTO](http://perseusyrcabogados.com/contacto.html "CONTACTO")
 
 ### Teléfono:
 +34 661 099 122
@@ -14,7 +14,7 @@ info@perseusyrcabogados.com
 ### Ubicación:
 Calle Juan Flórez, 2, 3ºA, A Coruña
 
-# EQUIPO
+# [EQUIPO](https://perseusyrcabogados.com/equipo.html "EQUIPO")
 
 ### ANA REZA
 
@@ -30,7 +30,10 @@ Socio Director Área Penal
 ![luis_jurado](https://user-images.githubusercontent.com/63341181/84498586-395ff400-acb1-11ea-9709-0c3801825aa1.jpg)
 [Luis Jurado - Linkedin](https://www.linkedin.com/in/luisjuradocano/ "Luis Jurado - Linkedin")
 
-# Envíanos tu curriculum
+# [SERVICIOS](https://perseusyrcabogados.com/servicios.html "SERVICIOS")
+
+# [Envíanos tu curriculum](http://perseusyrcabogados.com/envianos-tu-curriculum.html "Envíanos tu curriculum")
+
 En Perseus & RC Abogados destacamos por contar con un excelente grupo de profesionales. Trabajamos en un ambiente de motivación, creatividad y superación. Si eres un apasionado jurista, seguro que encontrarás atractivos los proyectos en los que estamos inmersos.
 
 Constantemente estamos evaluando perfiles para contar con los mejores profesionales en plantilla y seguramente hay un hueco para ti, envíanos tu curriculum a ***info@perseusyrcabogados.com*** con el asunto CURRICULUM seguido de tu nombre y cuéntanos por qué piensas que encajarías en nuestros proyectos.
