@@ -11,3 +11,8 @@ Socio Director Área Penal
 
 ![luis_jurado](https://user-images.githubusercontent.com/63341181/84498586-395ff400-acb1-11ea-9709-0c3801825aa1.jpg)
 [Luis Jurado - Linkedin](https://www.linkedin.com/in/luisjuradocano/ "Luis Jurado - Linkedin")
+
+----------------------------------------------------------------------------------------------------------------------------------------
+[Legal](https://perseusyrcabogados.com/legal.html "Legal")
+[Cookies](https://perseusyrcabogados.com/cookies.html "Cookies")
+[Términos de uso](https://perseusyrcabogados.com/terminos.html "Términos de uso")
