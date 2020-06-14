@@ -6,3 +6,9 @@ info@perseusyrcabogados.com
 
 ### Ubicación:
 Calle Juan Flórez, 2, 3ºA, A Coruña
+----------------------------------------------------------------------------------------------------------------------------------------
+<div class=center>
+[Legal](https://perseusyrcabogados.com/legal.html "Legal")
+[Cookies](https://perseusyrcabogados.com/cookies.html "Cookies")
+[Términos de uso](https://perseusyrcabogados.com/terminos.html "Términos de uso")
+</div>
