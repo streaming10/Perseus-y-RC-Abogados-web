@@ -51,5 +51,4 @@ Lo presentes términos de uso de la página web se regirán por la legislación 
 
 Para cuantas cuestiones se susciten sobre el objeto, interpretación, aplicación y cumplimiento de estos términos de uso, así como para cualesquiera reclamaciones o controversias que puedan surgir entre el VAN MULLEN y el USUARIO, siempre que éste no reúna la condición de consumidor o usuario, según la definición dada por la normativa sectorial española, las partes se someten a los Jueces y Tribunales de Coruña con renuncia expresa a cualquier otro fuero que pudiera corresponderles.
 
-Fecha publicación: 7 de enero de 2020  
-Fecha de actualización: 20 de enero de 2020
+Fecha publicación: 14 de junio de 2020  
