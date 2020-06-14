@@ -41,6 +41,8 @@ Constantemente estamos evaluando perfiles para contar con los mejores profesiona
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+<div class=center>
 [Legal](https://perseusyrcabogados.com/legal.html "Legal")
 [Cookies](https://perseusyrcabogados.com/cookies.html "Cookies")
 [Términos de uso](https://perseusyrcabogados.com/terminos.html "Términos de uso")
+</div>
