@@ -34,6 +34,8 @@ Socio Director Área Penal
 
 # [SERVICIOS](https://perseusyrcabogados.com/servicios.html "SERVICIOS")
 
+Conozca nuestros servicios accediento [AQUÍ](https://perseusyrcabogados.com/servicios.html "AQUÍ")
+
 # [Envíanos tu curriculum](http://perseusyrcabogados.com/envianos-tu-curriculum.html "Envíanos tu curriculum")
 
 En Perseus & RC Abogados destacamos por contar con un excelente grupo de profesionales. Trabajamos en un ambiente de motivación, creatividad y superación. Si eres un apasionado jurista, seguro que encontrarás atractivos los proyectos en los que estamos inmersos.
