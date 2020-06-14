@@ -7,6 +7,7 @@ En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios
 • NIF: 49040412L  
 • Domicilio: Calle Juan Flórez nº 2, 3º, 15004, A Coruña.  
 • Correo electrónico: luisjurado@icacor.es
+
 • Páginas web: www.perseusyrcabogados.com
 
 Las referencias sucesivas a Perseus & RC Abogados, en las correlativas y enumeradas cláusulas de estos términos de uso se entenderán hechas a su titular cuyos datos se indican en el párrafo anterior.  
