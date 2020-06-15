@@ -34,7 +34,7 @@ Socio Director Área Penal
 
 # [ÁREAS DEL DESPACHO](https://perseusyrcabogados.com/areas.html "ÁREAS DEL DESPACHO")
 
-Conozca nuestros servicios accediendo [AQUÍ](https://perseusyrcabogados.com/servicios.html "AQUÍ")
+Conozca nuestras áreas de especialización accediendo [AQUÍ](https://perseusyrcabogados.com/areas.html "AQUÍ")
 
 # [ENVÍANOS TU CURRICULUM](http://perseusyrcabogados.com/envianos-tu-curriculum.html "ENVÍANOS TU CURRICULUM")
 
