@@ -1,6 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="{{ "favicon.ico" | absolute_url }}">
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63341181/84494989-b50a7280-acaa-11ea-98f2-ff38f16d276a.png">
 </p>
