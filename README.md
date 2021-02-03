@@ -14,7 +14,7 @@
 info@perseusyrcabogados.com
 
 ### Ubicación:
-Calle Juan Flórez, 2, 3ºA, A Coruña
+Calle Torreiro, nº 13, 3ºC, 15001, A Coruña
 
 # [EQUIPO](https://perseusyrcabogados.com/equipo.html "EQUIPO")
 
