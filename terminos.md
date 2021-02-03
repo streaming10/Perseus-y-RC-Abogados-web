@@ -5,8 +5,8 @@
 En cumplimiento del artículo 10 de la Ley 34/2002, de 11 de julio, de Servicios de la Sociedad de la Información y Comercio Electrónico, el Titular de la página web pone a disposición del USUARIO de esta sus datos identificativos:  
 • Titular: LUIS JURADO CANO  
 • NIF: 49040412L  
-• Domicilio: Calle Torreiro, 13, 3ºC, 15001, A Coruña
-• Correo electrónico: luisjurado@icacor.es
+• Domicilio: Calle Torreiro, 13, 3ºC, 15001, A Coruña 
+• Correo electrónico: luisjurado@icacor.es 
 
 • Páginas web: www.perseusyrcabogados.com
 
